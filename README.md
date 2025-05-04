@@ -11,3 +11,8 @@ You can directly run the notebook in Google Colab by clicking the link below:
 ## Project Overview
 
 This project aims to analyze the dataset using Python, pandas, and machine learning models to derive insights. 
+Project contributors:
+Aryan Verma
+Ayush Kumar Singh
+Ambuj Vashistha
+Nandan Acharya
